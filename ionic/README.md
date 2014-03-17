@@ -12,9 +12,7 @@ Applications developed with Ionic can be run directly within a web browser contr
 
 ## Application Structure
 
-+ `\assets` - icons, etc used by PhoneGap
-+ `\config.xml` - the XML file that is used by PhoneGap Build in order to package the app
-+ `\icon.png` - platform independent icon used by PhoneGap
++ `\www\assets` - icons, etc used by PhoneGap
 + `\www\css` - application-specific styling
 + `\www\img` - application-specific images
 + `\www\js` - application-specific JavaScript files
